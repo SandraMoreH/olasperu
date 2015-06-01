@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+URL:https://iwdlima.eventbrite.es
+DTSTART:20150321T133000Z
+DTEND:20150321T233000Z
+SUMMARY:International Women’s Day 2015
+DESCRIPTION:For details, click here: https://iwdlima.eventbrite.es
+LOCATION:Universidad San Martin de Porres - Av. La Fontana 1250  -  La Molina - Lima - Perú
+END:VEVENT
+END:VCALENDAR
