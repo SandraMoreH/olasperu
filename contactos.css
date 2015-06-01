@@ -1,0 +1,78 @@
+* {
+  box-sizing:border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.formulario{
+	top: 200px;
+	background-image: url(img/banner23.jpg); 
+	background-repeat: no-repeat;
+	height: 100%;
+	position: relative;
+	background-position: center;
+	
+}
+html,
+body,
+.formulario{
+	height: 100%;
+	width: 100%;
+}
+div{
+	text-align: left;
+	padding-top: 40%;
+	padding-right: 30%;
+}
+.Contactanos ul{
+	list-style: none;
+}
+.Contactanos li{
+	padding: 50px;
+	position: relative;
+}
+.Contactanos textarea{
+	padding: 8px;
+	width: 700px;
+}
+li{
+	position: relative;
+	left: 40%;
+	bottom: 100px;
+}
+.Contactanos label{
+	display: inline-block;
+	width: 150px;
+	margin-top: 3px;
+	float: left;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+	color: #636363;
+	padding-left: 0px;
+}
+.Contactanos button{
+	margin-left: 156px;
+	border: none;
+	background-color: #BDC3C7;
+	padding: 20px;
+	position: relative;
+	left: 5%;
+}
+.Contactanos input{
+	width: 280px;
+	height: 40px;
+	border: none;
+	background-color: #BFBFBF;
+	position: absolute;
+	left: 25%;
+ }
+h1{
+	font-family: 'Chewy', cursive;
+	font-size: 100px;
+	position: relative;
+	left: 46%;
+	bottom: 150px;
+	color: #636363;
+	padding: 0px;
+	margin:0px;
+}
